@@ -5,7 +5,27 @@ public class HelloWorld {
         System.out.println("");
         System.out.println("增加了一行代码");
         System.out.println("在增加一行代码");
-        System.out.println("增加一句花");
+        System.out.println("看看");
+        System.out.println("panduan");
+
+
+        System.out.println("2222");
+        System.out.println("3333");
+        System.out.println("4444");
+        System.out.println("8888");
+        System.out.println("77777");
+        System.out.println("5555");
+        System.out.println("6666");
+
+        System.out.println("hi,boy");
+
+
+        System.out.println("lin");
+        System.out.println("lin3");
+        System.out.println("lin4");
+
+        System.out.println("haha");
+        System.out.println("增加最后一句花");
     }
 
 }
