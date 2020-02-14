@@ -6,6 +6,7 @@ public class HelloWorld {
         System.out.println("xing2");
         System.out.println("branch3");
         System.out.println("xing4");
+        System.out.println("branch1206");
     }
 
 }
