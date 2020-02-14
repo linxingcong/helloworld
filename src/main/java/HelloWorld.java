@@ -8,6 +8,7 @@ public class HelloWorld {
         System.out.println("看看");
         System.out.println("panduan");
         System.out.println("xing1");
+        System.out.println("hehe");
     }
 
 }
