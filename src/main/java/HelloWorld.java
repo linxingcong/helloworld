@@ -10,6 +10,7 @@ public class HelloWorld {
         System.out.println("xing1");
         System.out.println("hehe");
         System.out.println("777");
+        System.out.println("8888");
     }
 
 }
