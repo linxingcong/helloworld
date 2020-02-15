@@ -1,13 +1,8 @@
 public class HelloWorld {
 
     public static void main(String[] args) {
-        System.out.println("222");
-        System.out.println("xing1");
-        System.out.println("xing2");
-        System.out.println("branch3");
-        System.out.println("xing4");
-        System.out.println("xing1205");
-        System.out.println("xing1206");
+        System.out.println("b1");
+      ;
     }
 
 }
